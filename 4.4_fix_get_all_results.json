@@ -62,7 +62,7 @@
     "/opt/manager/env/lib/python2.7/site-packages/manager_rest/resource_manager.py": ["f5617076129b739ffb620a74c5512042"],
     "/opt/manager/env/lib/python2.7/site-packages/cloudify/workflows/workflow_context.py": ["27dd5f064a1833073c9df21fa9271e1d"],
     "/opt/mgmtworker/env/lib/python2.7/site-packages/cloudify/workflows/workflow_context.py": ["27dd5f064a1833073c9df21fa9271e1d"],
-    "/opt/cfy/embedded/lib/python2.7/site-packages/cloudify/workflows/workflow_context.py": ["27dd5f064a1833073c9df21fa9271e1d"]
+    "/opt/cfy/embedded/lib/python2.7/site-packages/cloudify/workflows/workflow_context.py": ["27dd5f064a1833073c9df21fa9271e1d"],
     "/opt/manager/env/lib/python2.7/site-packages/manager_rest/deployment_update/step_extractor.py": ["d16d4eb2f5d483709c98227edf1bd1b3"],
     "/opt/manager/env/lib/python2.7/site-packages/manager_rest/deployment_update/manager.py": ["9af826b7074231b6d8005cd167573c7a"],
     "/opt/manager/env/lib/python2.7/site-packages/manager_rest/deployment_update/handlers.py": ["7a836ae93fe5fcc98558482b78a9766d"],
